@@ -1,0 +1,1 @@
+Quiz stworzony przy użyciu html css i javascript.
